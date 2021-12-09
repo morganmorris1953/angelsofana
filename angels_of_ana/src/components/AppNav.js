@@ -3,7 +3,7 @@ import {useNavigate} from 'react-router-dom'
 import { Navbar, Nav, Form, FormControl, Button } from 'react-bootstrap';
 import page from '../data/pages.json'
 import "./AppNav.css"
-
+import '@stripe/stripe-js';
 function AppNav(props) {
   const [navItems, setNavItems] = useState(page)
 

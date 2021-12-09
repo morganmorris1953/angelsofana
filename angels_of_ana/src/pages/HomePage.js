@@ -28,7 +28,7 @@ import p22 from '../assets/22.jpeg'
 import p23 from '../assets/23.jpeg'
 import p24 from '../assets/24.jpeg'
 import p25 from '../assets/25.jpeg'
-
+import '@stripe/stripe-js';
 
 // import ArticleList from '../components/ArticleList/ArticleList.js'
 // import articlesAPI from '../api/ArticlesAPI';

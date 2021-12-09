@@ -14,5 +14,9 @@
     {
       "label": "Login",
       "value": "login"
+    },
+    {
+      "label": "Cart",
+      "value": "cart"
     }
   ]
